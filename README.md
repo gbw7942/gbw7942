@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile!;I+am+gbw7942.)](https://git.io/typing-svg)
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZkZmJhNXJpeTgzYTU0M2lhNTY2NDZ2c21ia3BrenAza2E2cnB2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="230">
-<p><em>Student at <a href="http://www.unb.br">Boston Trinity Academy</a>
+<p><em>Student at <a href="https://bostontrinity.org/">Boston Trinity Academy</a>
 </em></p>
 
 [![facebook: gbw7942](https://img.shields.io/twitter/follow/gbw7942?style=social)](https://www.facebook.com/gbw7942)
-[![Linkedin: gbw7942](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-wang-383015316/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/gabriel-wang-383015316/))
+[![Linkedin: gbw7942](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-wang-383015316/)]([https://www.linkedin.com/in/gabriel-wang-383015316/](https://www.linkedin.com/in/gabriel-wang-383015316/))
 [![GitHub gbw7942](https://img.shields.io/github/followers/gbw7942?label=follow&style=social)](https://github.com/gbw7942)
 
 
