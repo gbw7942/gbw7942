@@ -5,7 +5,7 @@
 </em></p>
 
 [![facebook: gbw7942](https://img.shields.io/twitter/follow/gbw7942?style=social)](https://www.facebook.com/gbw7942)
-[![Linkedin: gbw7942](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-wang-383015316/)]([https://www.linkedin.com/in/gabriel-wang-383015316/](https://www.linkedin.com/in/gabriel-wang-383015316/))
+[![Linkedin: gbw7942](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-wang-383015316/)]([https://www.linkedin.com/in/gabriel-wang-383015316/](https://www.linkedin.com/in/gabriel-wang-383015316/))
 [![GitHub gbw7942](https://img.shields.io/github/followers/gbw7942?label=follow&style=social)](https://github.com/gbw7942)
 
 
